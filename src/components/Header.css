@@ -1,0 +1,18 @@
+.navbar-root {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+    font-size: 1.5em;
+    border-bottom: 2px solid black;
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+}
+
+.navbar-root a {
+    text-decoration: none;
+    color: black;
+}

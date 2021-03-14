@@ -1,0 +1,18 @@
+.result-root {
+    width: 90vw;
+    max-width: 1000px;
+    height: max-content;
+    border: 2px solid black;
+    margin: 1em 1em;
+    padding: 0.5em 0.5em;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.result-title {
+    font-weight: bold;
+}

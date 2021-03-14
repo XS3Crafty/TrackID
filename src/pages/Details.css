@@ -1,0 +1,50 @@
+.details-root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.details-content {
+    padding-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.details-content div {
+    width: 90vw;
+    max-width: 1024px;
+    margin: 0.25em 0em;
+}
+
+.details-title {
+    font-size: 1.5em;
+}
+
+.key-bpm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-bpm {
+    font-size: 2.5em;
+}
+
+.details-key {
+    font-size: 2.5em;
+}
+
+.details-degrees {
+    font-size: 2em;
+}
+
+.metronome {
+    width: 80vw;
+    max-width: 500px;
+    justify-self: center;
+    align-self: center;
+    margin: 1em 1em;
+    filter: grayscale();
+}

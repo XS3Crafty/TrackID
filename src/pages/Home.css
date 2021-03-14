@@ -1,0 +1,14 @@
+.home-root {
+    width: 100%;
+    height: 100%;
+    padding-top: 8vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.home-text{
+    text-align: center;
+    font-size: x-large;
+    margin: 1em 1em;
+}
