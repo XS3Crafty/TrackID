@@ -1,5 +1,7 @@
 # TrackID
 
+Live Demo: https://trackid-40c46.web.app/
+
 My first react web application! 
 
 ![track-id-home](https://user-images.githubusercontent.com/73684587/111057198-901e7800-8453-11eb-9b2d-391bbc893c14.png)
@@ -10,7 +12,7 @@ Designed for musicians, and anyone looking to learn new music, TrackID utilizes 
 
 ![track-id-result](https://user-images.githubusercontent.com/73684587/111057333-aed13e80-8454-11eb-9e15-6aaecc005c53.png)
 
-That was it...my coporate speal. Thank you for listening, I hope you enjoyed! Check out TrackID below.
+That was it...my coporate speal. Thank you for listening, I hope you enjoyed! Be sure to also check out the competition below.
 
-Live Demo: https://trackid-40c46.web.app/
+https://tunebat.com/
         
